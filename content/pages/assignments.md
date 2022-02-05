@@ -73,10 +73,39 @@ Rhythm section support role primarily. Any specific notes should be kept to a mi
 
 You have the option of writing 8 - 12 mm of this piece as a solo for one instrument, during which the others play backgrounds of some sort, e.g., riffs, pads, etc.
 
-| TUNE TYPES | DESCRIPTION |
-| --- | --- |
-| AAB Blues | Your original tune will be 12 mm long. Two more choruses will be variations on the original tune. Total of 36 mm. |
-| AABA | Your original tune will be either 16 (AB) or 32 (AABA) bars long plus an introduction of 4 mm. Total of 36 mm. 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+TUNE TYPES
+{{< thclose >}}
+{{< thopen >}}
+DESCRIPTION
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+AAB Blues
+{{< tdclose >}}
+{{< tdopen >}}
+Your original tune will be 12 mm long. Two more choruses will be variations on the original tune. Total of 36 mm.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+AABA
+{{< tdclose >}}
+{{< tdopen >}}
+Your original tune will be either 16 (AB) or 32 (AABA) bars long plus an introduction of 4 mm. Total of 36 mm.
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 Reports on Big Band Rehearsals and Performances
 -----------------------------------------------
@@ -97,12 +126,75 @@ Following the principles discussed in class, please do the following as indicate
 
 _Reference score_: Jones, Thad. "Kids Are Pretty People." In Wright, R. _Inside the Score_. Kendor Music, 1990.
 
-| PAGES | SPECIFIC ASSIGNMENTS |
-| --- | --- |
-| p. 86 INSET |  {{< br >}}{{< br >}} (a) Identify all tones in the sax section that are not included in the chord symbol given in piano part, i.e., extensions, etc. {{< br >}}{{< br >}} (b) Indicate the configuration of the voicing for each chord, e.g. 11 - #9 - 3 - 7 - R {{< br >}}{{< br >}}  |
-| p. 88 INSET |  {{< br >}}{{< br >}} (a) Identify as above, for sax section, adding in brass at letter F (mm.73, 74) {{< br >}}{{< br >}} (b) Also, note all "couplings" \*\* Please do this for mm. 67 - 70, 73 and 74 {{< br >}}{{< br >}}  |
-| p. 89 INSET |  {{< br >}}{{< br >}} (a) Identify as above, for sax and brass, noting couplings {{< br >}}{{< br >}} (b) Please do this for mm. 75 - 78 and 80 {{< br >}}{{< br >}}  |
-| pp. 90-91 | Study letter H, note the approach used here 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+PAGES
+{{< thclose >}}
+{{< thopen >}}
+SPECIFIC ASSIGNMENTS
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+p. 86 INSET
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+(a) Identify all tones in the sax section that are not included in the chord symbol given in piano part, i.e., extensions, etc.
+
+(b) Indicate the configuration of the voicing for each chord, e.g. 11 - #9 - 3 - 7 - R
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+p. 88 INSET
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+(a) Identify as above, for sax section, adding in brass at letter F (mm.73, 74)
+
+(b) Also, note all "couplings" \*\* Please do this for mm. 67 - 70, 73 and 74
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+p. 89 INSET
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+(a) Identify as above, for sax and brass, noting couplings
+
+(b) Please do this for mm. 75 - 78 and 80
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+pp. 90-91
+{{< tdclose >}}
+{{< tdopen >}}
+Study letter H, note the approach used here
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 ### Part B: "St. Louis Blues"
 
@@ -112,35 +204,216 @@ Diagram the entire piece, following examples in Ray Wright's _Inside the Score_.
 
 ### Voicing Analysis
 
-| PAGES | SPECIFIC ASSIGNMENTS |
-| --- | --- |
-| pp. 9-10 | For the full twelve measures given at rehearsal number 69, please transpose to RSF (concert) on three staves (two for saxes, one for chords) and give specific configuration for each chord. |
-| p. 13 | At rehearsal number 97, all of this music, same as above w/transposition. On five staves: two for saxes, one for trumpets, one for trombones, one for chords. |
-| p. 25 | At rehearsal number 197, the full chord at this measure, as above w/transposition. |
-| p. 25 | For mm. 197 - 200, what is the effect of these four measures? 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+PAGES
+{{< thclose >}}
+{{< thopen >}}
+SPECIFIC ASSIGNMENTS
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+pp. 9-10
+{{< tdclose >}}
+{{< tdopen >}}
+For the full twelve measures given at rehearsal number 69, please transpose to RSF (concert) on three staves (two for saxes, one for chords) and give specific configuration for each chord.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+p. 13
+{{< tdclose >}}
+{{< tdopen >}}
+At rehearsal number 97, all of this music, same as above w/transposition. On five staves: two for saxes, one for trumpets, one for trombones, one for chords.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+p. 25
+{{< tdclose >}}
+{{< tdopen >}}
+At rehearsal number 197, the full chord at this measure, as above w/transposition.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+p. 25
+{{< tdclose >}}
+{{< tdopen >}}
+For mm. 197 - 200, what is the effect of these four measures?
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 Final Composition Project
 -------------------------
 
 This is to be a substantial original composition written for full jazz orchestra. The full score is to be in concert key. All parts are to be properly transposed. The piece should be about 5 minutes in duration.
 
-| ASSIGNMENT ELEMENTS | DETAILS |
-| --- | --- |
-| {{< td-colspan 2 >}}**Form and structure**{{< /td-colspan >}} ||
-| {{< td-colspan 2 >}}You may choose to work with standard forms (blues, 32 bar song form) or a form of your own devising. Your structure should be well thought-out in terms of design, shape, orchestration, use of solo improvisational segments, and other aspects.{{< /td-colspan >}} ||
-| {{< td-colspan 2 >}}**Texture and voicing**{{< /td-colspan >}} ||
-| Monophonic texture | Use of a single instrumental line, or of a unison line, are worth consideration and can often be effective. However, please be sure that any such usage is not excessive. |
-| Homophonic texture |  {{< br >}}{{< br >}} There must be evidence of full ensemble block harmony and a soli section, typically for the saxes. The minimum of block harmony required is 16 mm. {{< br >}}{{< br >}} **Analysis**: One of these segments must have all chords, including passing chords, identified. The segment should be between 8 - 12 mm. long. Please do this on a separate page of music paper. {{< br >}}{{< br >}}  |
-| Polyphonic texture | There must be evidence of countermelodic writing. This may be in terms of a melody line with one counterline, or, if you wish, a passage with three-part counterpoint. The minimum amount of countermelodic writing required is 16 mm. |
-| Voicings |  {{< br >}}{{< br >}} In the block harmony sections, there must be evidence of attention to voicing considerations as we have studied them, i.e., you should be thinking in terms of the Basie or the Thad Jones approach, for example, or in terms of modal or other approaches we have discussed. {{< br >}}{{< br >}} **Analysis**: One segment of your block harmony must have the voicing configurations identified as done in the "Moten Swing," "Kids are Pretty People,"and "St. Louis Blues" exercises. The segment should be between 6 - 8 mm. long. Please do this on a separate page. {{< br >}}{{< br >}}  |
-| {{< td-colspan 2 >}}**Other aspects**{{< /td-colspan >}} ||
-| {{< td-colspan 2 >}}Any and all concepts, techniques, etc. discussed during the term should be observed, including the following:{{< /td-colspan >}} ||
-| Solo improvisation | You should allow for some solo improvisation in your piece. With a standard form and structure (e.g., Basie, Jones, etc.) please include backgrounds as part of this solo section. With a different form and structure, please include something similar. In any case, do not have long stretches of solo improvisation with only rhythm section accompaniment. |
-| Dynamics and articulations | There should be varied dynamic markings in your piece. The use of crescendo and decrescendo effects are encouraged as well. There should be varied articulation markings in your piece. |
-| Tempo and rhythmic feels | Any and all meter indications must be clearly marked. You need not make metric shifts, but if you do, these must be clearly marked and carefully designed for ease of performance. |
-| Meter | In the block harmony sections, there must be evidence of attention to voicing considerations as we have studied them, i.e., you should be thinking in terms of the Basie or the Thad Jones approach, for example, or in terms of modal or other approaches we have discussed. |
-| Horn sections | There should be evidence of use of all of the sections as sections as well as the use of the full ensemble. |
-| Rhythm section |  {{< br >}}{{< br >}} The rhythm section will primarily perform a supportive function, e.g., comping for piano, walking or patterned lines for bass, and time keeping for drums. Hash marks and other simple, direct indications are preferred. {{< br >}}{{< br >}} If you wish to have any of the rhythm section parts work with the other sections or full ensemble, this should be kept to a minimum and be clearly indicated. For example: bass doubling bari sax line; piano doubling horn lines; drums doing fills alternating w/full ensemble rhythmic support. All are possible but must be dealt with carefully. {{< br >}}{{< br >}}  
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+ASSIGNMENT ELEMENTS
+{{< thclose >}}
+{{< thopen >}}
+DETAILS
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen colspan="2" >}}
+**Form and structure**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="2" >}}
+You may choose to work with standard forms (blues, 32 bar song form) or a form of your own devising. Your structure should be well thought-out in terms of design, shape, orchestration, use of solo improvisational segments, and other aspects.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="2" >}}
+**Texture and voicing**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Monophonic texture
+{{< tdclose >}}
+{{< tdopen >}}
+Use of a single instrumental line, or of a unison line, are worth consideration and can often be effective. However, please be sure that any such usage is not excessive.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Homophonic texture
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+There must be evidence of full ensemble block harmony and a soli section, typically for the saxes. The minimum of block harmony required is 16 mm.
+
+**Analysis**: One of these segments must have all chords, including passing chords, identified. The segment should be between 8 - 12 mm. long. Please do this on a separate page of music paper.
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Polyphonic texture
+{{< tdclose >}}
+{{< tdopen >}}
+There must be evidence of countermelodic writing. This may be in terms of a melody line with one counterline, or, if you wish, a passage with three-part counterpoint. The minimum amount of countermelodic writing required is 16 mm.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Voicings
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+In the block harmony sections, there must be evidence of attention to voicing considerations as we have studied them, i.e., you should be thinking in terms of the Basie or the Thad Jones approach, for example, or in terms of modal or other approaches we have discussed.
+
+**Analysis**: One segment of your block harmony must have the voicing configurations identified as done in the "Moten Swing," "Kids are Pretty People,"and "St. Louis Blues" exercises. The segment should be between 6 - 8 mm. long. Please do this on a separate page.
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="2" >}}
+**Other aspects**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="2" >}}
+Any and all concepts, techniques, etc. discussed during the term should be observed, including the following:
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Solo improvisation
+{{< tdclose >}}
+{{< tdopen >}}
+You should allow for some solo improvisation in your piece. With a standard form and structure (e.g., Basie, Jones, etc.) please include backgrounds as part of this solo section. With a different form and structure, please include something similar. In any case, do not have long stretches of solo improvisation with only rhythm section accompaniment.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Dynamics and articulations
+{{< tdclose >}}
+{{< tdopen >}}
+There should be varied dynamic markings in your piece. The use of crescendo and decrescendo effects are encouraged as well. There should be varied articulation markings in your piece.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Tempo and rhythmic feels
+{{< tdclose >}}
+{{< tdopen >}}
+Any and all meter indications must be clearly marked. You need not make metric shifts, but if you do, these must be clearly marked and carefully designed for ease of performance.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Meter
+{{< tdclose >}}
+{{< tdopen >}}
+In the block harmony sections, there must be evidence of attention to voicing considerations as we have studied them, i.e., you should be thinking in terms of the Basie or the Thad Jones approach, for example, or in terms of modal or other approaches we have discussed.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Horn sections
+{{< tdclose >}}
+{{< tdopen >}}
+There should be evidence of use of all of the sections as sections as well as the use of the full ensemble.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Rhythm section
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+The rhythm section will primarily perform a supportive function, e.g., comping for piano, walking or patterned lines for bass, and time keeping for drums. Hash marks and other simple, direct indications are preferred.
+
+If you wish to have any of the rhythm section parts work with the other sections or full ensemble, this should be kept to a minimum and be clearly indicated. For example: bass doubling bari sax line; piano doubling horn lines; drums doing fills alternating w/full ensemble rhythmic support. All are possible but must be dealt with carefully.
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 ### Performances
 
@@ -152,7 +425,55 @@ The following content is provided courtesy of the students and used with permiss
 
 {{< anchor "compositions" >}}{{< /anchor >}}
 
-| COMPOSITIONS | SCORES | PERFORMANCE VIDEOS |
-| --- | --- | --- |
-| "Totality" by Chris Kottke |  {{< br >}}{{< br >}} Concert ([PDF]({{< baseurl >}}/resources/totality_conc)) {{< br >}}{{< br >}} Transposed ([PDF]({{< baseurl >}}/resources/totality_trans)) {{< br >}}{{< br >}}  | [Audio and video]({{< baseurl >}}/resources/totality) |
-| "Empty Bottles" by Mike Lee |  {{< br >}}{{< br >}} ([PDF]({{< baseurl >}}/resources/empty_bottles)) {{< br >}}{{< br >}}  | [Audio and video]({{< baseurl >}}/resources/empty-bottles)
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+COMPOSITIONS
+{{< thclose >}}
+{{< thopen >}}
+SCORES
+{{< thclose >}}
+{{< thopen >}}
+PERFORMANCE VIDEOS
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+"Totality" by Chris Kottke
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Concert ([PDF]({{< baseurl >}}/resources/totality_conc))
+
+Transposed ([PDF]({{< baseurl >}}/resources/totality_trans))
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+[Audio and video]({{< baseurl >}}/resources/totality)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+"Empty Bottles" by Mike Lee
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+([PDF]({{< baseurl >}}/resources/empty_bottles))
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+[Audio and video]({{< baseurl >}}/resources/empty-bottles)
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}

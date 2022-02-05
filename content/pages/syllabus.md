@@ -61,45 +61,365 @@ Session Key:
 FJE: [MIT Festival Jazz Ensemble](http://web.mit.edu/fje/www/)  
 AJO: [Aardvark Jazz Orchestra](http://www.aardvarkjazz.com/)
 
-| SES # | TOPICS |
-| --- | --- |
-| L1 | Introduction |
-| {{< td-colspan 2 >}}**Tonal concepts and theory**{{< /td-colspan >}} ||
-| L2 | Overview of the jazz orchestra |
-| L3 |  {{< br >}}{{< br >}} Melody and harmony {{< br >}}{{< br >}} Blues form {{< br >}}{{< br >}}  |
-| L4 | Composing and arranging |
-| E1 | FJE open rehearsal |
-| L5 | Sectional form |
-| L6 | Harmony and voicing |
-| L7 |  {{< br >}}{{< br >}} Saxophone writing {{< br >}}{{< br >}} Mid-term assignment {{< br >}}{{< br >}}  |
-| E2 | AJO open rehearsal |
-| L8 | Review of concepts |
-| E3 | AJO concert at Regattabar |
-| L9 | Putting it all together: score and parts |
-| E4 | FJE open rehearsal |
-| L10 | Sketches: individual review sessions |
-| E5 | AJO performs mid-term projects |
-| {{< td-colspan 2 >}}**Expansions and innovations**{{< /td-colspan >}} ||
-| L11 | Preview of FJE concert, with analysis of some repetoire (Guest lecturer: Fred Harris, Musical Director of MIT FJE) |
-| E6 | FJE open rehearsal |
-| L12 | Thad Jones / Bob Brookmeyer / Oliver Nelson |
-| E7 | FJE concert at MIT Kresge Auditorium |
-| L13 | Ethiopian jazz and the Either/Orchestra (Guest lecturers: Mulatu Astatke and Russ Gershon) |
-| L14 | Charles Mingus |
-| E8 | AJO open rehearsal followed by concert |
-| L15 | Duke Ellington I |
-| L16 | Gil Evans / Miles Davis collaborations (Guest lecturer: Steve Lajoie) |
-| L17 | George Russell and modal jazz |
-| L18 | Afro-Cuban music and bebop (Guest lecturer: Bill Lowe) |
-| {{< td-colspan 2 >}}**Toward the final project**{{< /td-colspan >}} ||
-| L19 | Duke Ellington II |
-| E9 | FJE concert at Kresge Auditorium |
-| L20 | Postmodern approaches |
-| L21 | Soundpainting (Guest lecturer: Walter Thompson) |
-| E10 | Soundpaining workshop with FJE and Walter Thompson |
-| L22 | Sketches for final project |
-| L23 | Final sketches: individual review sessions |
-| E11 | FJE performs final projects |
-| E12 | FJE performs final projects (cont.) 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+SES #
+{{< thclose >}}
+{{< thopen >}}
+TOPICS
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L1
+{{< tdclose >}}
+{{< tdopen >}}
+Introduction
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="2" >}}
+**Tonal concepts and theory**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L2
+{{< tdclose >}}
+{{< tdopen >}}
+Overview of the jazz orchestra
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L3
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Melody and harmony
+
+Blues form
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L4
+{{< tdclose >}}
+{{< tdopen >}}
+Composing and arranging
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+E1
+{{< tdclose >}}
+{{< tdopen >}}
+FJE open rehearsal
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L5
+{{< tdclose >}}
+{{< tdopen >}}
+Sectional form
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L6
+{{< tdclose >}}
+{{< tdopen >}}
+Harmony and voicing
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L7
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+Saxophone writing
+
+Mid-term assignment
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+E2
+{{< tdclose >}}
+{{< tdopen >}}
+AJO open rehearsal
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L8
+{{< tdclose >}}
+{{< tdopen >}}
+Review of concepts
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+E3
+{{< tdclose >}}
+{{< tdopen >}}
+AJO concert at Regattabar
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L9
+{{< tdclose >}}
+{{< tdopen >}}
+Putting it all together: score and parts
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+E4
+{{< tdclose >}}
+{{< tdopen >}}
+FJE open rehearsal
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L10
+{{< tdclose >}}
+{{< tdopen >}}
+Sketches: individual review sessions
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+E5
+{{< tdclose >}}
+{{< tdopen >}}
+AJO performs mid-term projects
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="2" >}}
+**Expansions and innovations**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L11
+{{< tdclose >}}
+{{< tdopen >}}
+Preview of FJE concert, with analysis of some repetoire (Guest lecturer: Fred Harris, Musical Director of MIT FJE)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+E6
+{{< tdclose >}}
+{{< tdopen >}}
+FJE open rehearsal
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L12
+{{< tdclose >}}
+{{< tdopen >}}
+Thad Jones / Bob Brookmeyer / Oliver Nelson
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+E7
+{{< tdclose >}}
+{{< tdopen >}}
+FJE concert at MIT Kresge Auditorium
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L13
+{{< tdclose >}}
+{{< tdopen >}}
+Ethiopian jazz and the Either/Orchestra (Guest lecturers: Mulatu Astatke and Russ Gershon)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L14
+{{< tdclose >}}
+{{< tdopen >}}
+Charles Mingus
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+E8
+{{< tdclose >}}
+{{< tdopen >}}
+AJO open rehearsal followed by concert
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L15
+{{< tdclose >}}
+{{< tdopen >}}
+Duke Ellington I
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L16
+{{< tdclose >}}
+{{< tdopen >}}
+Gil Evans / Miles Davis collaborations (Guest lecturer: Steve Lajoie)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L17
+{{< tdclose >}}
+{{< tdopen >}}
+George Russell and modal jazz
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L18
+{{< tdclose >}}
+{{< tdopen >}}
+Afro-Cuban music and bebop (Guest lecturer: Bill Lowe)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="2" >}}
+**Toward the final project**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L19
+{{< tdclose >}}
+{{< tdopen >}}
+Duke Ellington II
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+E9
+{{< tdclose >}}
+{{< tdopen >}}
+FJE concert at Kresge Auditorium
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L20
+{{< tdclose >}}
+{{< tdopen >}}
+Postmodern approaches
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L21
+{{< tdclose >}}
+{{< tdopen >}}
+Soundpainting (Guest lecturer: Walter Thompson)
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+E10
+{{< tdclose >}}
+{{< tdopen >}}
+Soundpaining workshop with FJE and Walter Thompson
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L22
+{{< tdclose >}}
+{{< tdopen >}}
+Sketches for final project
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+L23
+{{< tdclose >}}
+{{< tdopen >}}
+Final sketches: individual review sessions
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+E11
+{{< tdclose >}}
+{{< tdopen >}}
+FJE performs final projects
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+E12
+{{< tdclose >}}
+{{< tdopen >}}
+FJE performs final projects (cont.)
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 During the subsequent Spring 2009 term, Walter Thompson returned to MIT for a Soundpainting performance with the Aardvark Jazz Orchestra.  See the [Video and Audio Classes]({{< baseurl >}}/pages/video-and-audio-classes) page for a recording of this concert.
