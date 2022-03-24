@@ -273,9 +273,9 @@ Personal concert recording from Institute of Contemporary Art, Boston MA, Dec. 2
 
 _Ethiopian Modes and Voicings_
 
-Ethiopian modes (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/ethio_modes)) (Courtesy of Rick McLaughlin. Used with permission.)
+Ethiopian modes ([PDF]({{< baseurl >}}/resources/ethio_modes)) (Courtesy of Rick McLaughlin. Used with permission.)
 
-Voicings (![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[PDF]({{< baseurl >}}/resources/ethio_voicing)) (Courtesy of Russ Gershon. Used with permission.)
+Voicings ([PDF]({{< baseurl >}}/resources/ethio_voicing)) (Courtesy of Russ Gershon. Used with permission.)
 
 _Recommended Reading_
 
